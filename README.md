@@ -29,7 +29,7 @@ Quickly generate README.md files for your projects using a command line applicat
     
 ## About The Project
     
-<img src="./images/readme-generator-2.gif" width="1278" height="676" />
+<img src="./images/readme-generator-2.gif" width="852" height="451" />
 
 
 ### Built With
